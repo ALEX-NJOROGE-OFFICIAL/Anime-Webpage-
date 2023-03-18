@@ -1,4 +1,5 @@
-# Anime-Webpage-
+1st webpage with login and register forms
 
-A webpage for an anime website with login and register sliding forms.
+A webpage with sliding forms.
+
 Has Js code
